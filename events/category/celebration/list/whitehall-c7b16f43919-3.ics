@@ -1,0 +1,126 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Whitehall - ECPv6.0.0.1//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Whitehall
+X-ORIGINAL-URL:
+X-WR-CALDESC:Events for Whitehall
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-Robots-Tag:noindex
+X-PUBLISHED-TTL:PT1H
+BEGIN:VTIMEZONE
+TZID:UTC
+BEGIN:STANDARD
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0000
+TZNAME:UTC
+DTSTART:20230101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20231018T150000
+DTEND;TZID=UTC:20231018T163000
+DTSTAMP:20231002T164924
+CREATED:20220913T140214Z
+LAST-MODIFIED:20220929T121649Z
+UID:796-1697641200-1697646600@fastwpdemo.com
+SUMMARY:Public Affairs & Public Safety Committee Meeting
+DESCRIPTION:Event Overview\n\n\nCharms pleasure the moment blinded desires that they cannot foresee  bound claimduty obligations business it will frequently. \nRighteous indignations & dislikes men who are so beguiled demoralized by the charms pleasures the moment blinded desires that they cannot foresee to bound claim of duty the obligations business it occurs that pleasur rationaly encounter consequences that are extremely.
+URL:/event/public-affairs-public-safety-committee-meeting/
+LOCATION:182 St Georges Road\, San Antonio
+CATEGORIES:Celebration
+ATTACH;FMTTYPE=image/jpeg:/wp-content/uploads/2022/09/schedule-2.jpg
+ORGANIZER;CN="Sam%20Williamson":MAILTO:info@ecakognanan.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20240412T090000
+DTEND;TZID=UTC:20240412T183000
+DTSTAMP:20231002T164924
+CREATED:20220913T141045Z
+LAST-MODIFIED:20220929T122115Z
+UID:812-1712912400-1712946600@fastwpdemo.com
+SUMMARY:San Antonio Sketches & Urban History
+DESCRIPTION:Event Overview\n\n\nCharms pleasure the moment blinded desires that they cannot foresee  bound claimduty obligations business it will frequently. \nRighteous indignations & dislikes men who are so beguiled demoralized by the charms pleasures the moment blinded desires that they cannot foresee to bound claim of duty the obligations business it occurs that pleasur rationaly encounter consequences that are extremely.
+URL:/event/san-antonio-sketches-urban-history/
+LOCATION:182 St Georges Road\, San Antonio
+CATEGORIES:Celebration
+ATTACH;FMTTYPE=image/jpeg:/wp-content/uploads/2022/09/schedule-8.jpg
+ORGANIZER;CN="Sam%20Williamson":MAILTO:info@ecakognanan.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20240912T120000
+DTEND;TZID=UTC:20240912T183000
+DTSTAMP:20231002T164924
+CREATED:20220913T163822Z
+LAST-MODIFIED:20220929T122012Z
+UID:832-1726142400-1726165800@fastwpdemo.com
+SUMMARY:Public Affair & Public Safety Committee Meeting
+DESCRIPTION:Event Overview\n\n\nCharms pleasure the moment blinded desires that they cannot foresee  bound claimduty obligations business it will frequently. \nRighteous indignations & dislikes men who are so beguiled demoralized by the charms pleasures the moment blinded desires that they cannot foresee to bound claim of duty the obligations business it occurs that pleasur rationaly encounter consequences that are extremely.
+URL:/event/public-affair-public-safety-committee-meeting/
+LOCATION:Heaton Park\, Mt Road M25 2SW
+CATEGORIES:Celebration
+ATTACH;FMTTYPE=image/jpeg:/wp-content/uploads/2022/09/schedule-2.jpg
+ORGANIZER;CN="Sam%20Williamson":MAILTO:info@ecakognanan.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20241211T093000
+DTEND;TZID=UTC:20241211T143000
+DTSTAMP:20231002T164924
+CREATED:20220913T140916Z
+LAST-MODIFIED:20220929T122100Z
+UID:810-1733909400-1733927400@fastwpdemo.com
+SUMMARY:Affairs & Public Safety Committee Meeting
+DESCRIPTION:Event Overview\n\n\nCharms pleasure the moment blinded desires that they cannot foresee  bound claimduty obligations business it will frequently. \nRighteous indignations & dislikes men who are so beguiled demoralized by the charms pleasures the moment blinded desires that they cannot foresee to bound claim of duty the obligations business it occurs that pleasur rationaly encounter consequences that are extremely.
+URL:/event/affairs-public-safety-committee-meeting/
+LOCATION:182 St Georges Road\, San Antonio
+CATEGORIES:Celebration
+ATTACH;FMTTYPE=image/jpeg:/wp-content/uploads/2022/09/schedule-7.jpg
+ORGANIZER;CN="Sam%20Williamson":MAILTO:info@ecakognanan.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20241212T100000
+DTEND;TZID=UTC:20241212T183000
+DTSTAMP:20231002T164924
+CREATED:20220913T140336Z
+LAST-MODIFIED:20220929T122024Z
+UID:800-1733997600-1734028200@fastwpdemo.com
+SUMMARY:Street San Antonio Sketches & Urban History
+DESCRIPTION:Event Overview\n\n\nCharms pleasure the moment blinded desires that they cannot foresee  bound claimduty obligations business it will frequently. \nRighteous indignations & dislikes men who are so beguiled demoralized by the charms pleasures the moment blinded desires that they cannot foresee to bound claim of duty the obligations business it occurs that pleasur rationaly encounter consequences that are extremely.
+URL:/event/street-san-antonio-sketches-urban-history/
+LOCATION:Heaton Park\, Mt Road M25 2SW
+CATEGORIES:Celebration
+ATTACH;FMTTYPE=image/jpeg:/wp-content/uploads/2022/09/schedule-3.jpg
+ORGANIZER;CN="Sam%20Williamson":MAILTO:info@ecakognanan.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20250213T100000
+DTEND;TZID=UTC:20250213T170000
+DTSTAMP:20231002T164924
+CREATED:20220913T140629Z
+LAST-MODIFIED:20220929T122048Z
+UID:808-1739440800-1739466000@fastwpdemo.com
+SUMMARY:Holiday School Program at San Antonio
+DESCRIPTION:Event Overview\n\n\nCharms pleasure the moment blinded desires that they cannot foresee  bound claimduty obligations business it will frequently. \nRighteous indignations & dislikes men who are so beguiled demoralized by the charms pleasures the moment blinded desires that they cannot foresee to bound claim of duty the obligations business it occurs that pleasur rationaly encounter consequences that are extremely.
+URL:/event/holiday-school-program-at-san-antonio/
+LOCATION:333 Bridge Road\, San Antonio
+CATEGORIES:Celebration
+ATTACH;FMTTYPE=image/jpeg:/wp-content/uploads/2022/09/schedule-6.jpg
+ORGANIZER;CN="Sam%20Williamson":MAILTO:info@ecakognanan.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20260116T120000
+DTEND;TZID=UTC:20260116T140000
+DTSTAMP:20231002T164924
+CREATED:20220913T140506Z
+LAST-MODIFIED:20220929T122035Z
+UID:802-1768564800-1768572000@fastwpdemo.com
+SUMMARY:Scating School holiday Program at San Antonio
+DESCRIPTION:Event Overview\n\n\nCharms pleasure the moment blinded desires that they cannot foresee  bound claimduty obligations business it will frequently. \nRighteous indignations & dislikes men who are so beguiled demoralized by the charms pleasures the moment blinded desires that they cannot foresee to bound claim of duty the obligations business it occurs that pleasur rationaly encounter consequences that are extremely.
+URL:/event/scating-school-holiday-program-at-san-antonio/
+LOCATION:182 St Georges Road\, San Antonio
+CATEGORIES:Celebration
+ATTACH;FMTTYPE=image/jpeg:/wp-content/uploads/2022/09/schedule-5.jpg
+ORGANIZER;CN="Sam%20Williamson":MAILTO:info@ecakognanan.com
+END:VEVENT
+END:VCALENDAR
